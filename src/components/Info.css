@@ -1,0 +1,13 @@
+#info-div{
+    width: 60%;
+    min-width: 600px;
+    margin: 20px auto;
+}
+#info-div h1{
+    font-size: 50px;
+}
+#info-div p{
+    font-weight: 600;
+    opacity: 0.7;
+    text-justify: auto;
+}
